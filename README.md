@@ -1,3 +1,3 @@
 # MobileAppDevelopment
 
-## EACH QUESTION HAVE THEIR OWN BRANCH...
+# Each Question is in it's own branch
